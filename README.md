@@ -1,1 +1,1 @@
-# Javascript_Quote_Generator
+# Only_Javascript_Quote_Generator
